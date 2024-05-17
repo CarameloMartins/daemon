@@ -76,6 +76,7 @@ this topic will be welcome as well as links related to actual linters.
 
 ### Language Agnostic
 
+- [ast-grep] (https://ast-grep.github.io/) - a fast and polyglot tool for code structural search, lint, rewriting at large scale.
 - [coala](https://github.com/coala-analyzer/coala) - Language agnostic linter
   based on rules and standards. Written in Python.
 - [commitlint](https://github.com/conventional-changelog/commitlint) -
