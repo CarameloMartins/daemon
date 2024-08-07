@@ -338,6 +338,9 @@ this topic will be welcome as well as links related to actual linters.
 
 - [speccy](https://github.com/wework/speccy) - A handy toolkit for OpenAPI, with
   a linter to enforce quality rules.
+- [spectral](https://github.com/stoplightio/spectral) - A generic ruleset engine
+  on any JSON or YAML data, with built-in OpenAPI, AsyncAPI, and JSON Schema support
+  and support of custom rules.
 
 ### Perl
 
