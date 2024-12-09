@@ -87,6 +87,10 @@ this topic will be welcome as well as links related to actual linters.
 - [Scanmycode CE (Community Edition)](https://github.com/marcinguy/scanmycode-ce) -
   Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One
   Report.
+- [SonarQube for IDE](https://www.sonarsource.com/products/sonarlint/) - IDE extension
+  to find and fix coding issues in real-time, also delivers rich contextual guidance
+  to help developers understand  why there is an issue, assess the risk,
+  and educate them on how to fix it. Previously known as SonarLint.
 - [tidyall](https://metacpan.org/release/Code-TidyAll) - an all-in-one code
   tidier and validator with many available backends, caching,
   filtering-by-paths, and some other features.
